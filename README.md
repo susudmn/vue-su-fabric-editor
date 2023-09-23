@@ -3,11 +3,17 @@
 基于 fabric.js 和 Vue 开发的插件化图片编辑器，可自定义字体、素材、设计模板、右键菜单、快捷键。
 
 ![image](https://github.com/susudmn/vue-su-fabric-editor/assets/125255256/3ee98e08-532f-43ec-89a8-aa900fb06cfb)
+
 ![image](https://github.com/susudmn/vue-su-fabric-editor/assets/125255256/860c39a5-6cf9-44cf-87e0-8b005cb88ecb)
+
 ![image](https://github.com/susudmn/vue-su-fabric-editor/assets/125255256/789e4321-4255-480a-9003-c555475317ea)
+
 ![image](https://github.com/susudmn/vue-su-fabric-editor/assets/125255256/860e87f2-4850-4584-9e81-33f47705ea09)
+
 ![image](https://github.com/susudmn/vue-su-fabric-editor/assets/125255256/14002e5e-607f-4259-a20f-4d56da95037d)
+
 ![image](https://github.com/susudmn/vue-su-fabric-editor/assets/125255256/db599dfb-93b6-4436-9a68-67723e7c9cc5)
+
 ![image](https://github.com/susudmn/vue-su-fabric-editor/assets/125255256/9276ab95-c7f4-4509-ac6d-356b3663277d)
 
 ## 特点
